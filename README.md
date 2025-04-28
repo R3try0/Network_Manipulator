@@ -18,7 +18,9 @@
 - **Linux**: Can be run directly without additional compilation for now.
 
 ## Installation
-Instructions for installation will be provided soon. Stay tuned!
+- **Windows**: In **Releases** there is a standalone executable
+- **Linux**: 1. pip install -r requirements.txt
+-             2. python src.py 
 
 ## Usage
 Detailed usage instructions will be added in the future. 
