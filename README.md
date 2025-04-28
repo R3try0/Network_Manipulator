@@ -20,8 +20,8 @@
 ## Installation
 - **Windows**: In **Releases** there is a standalone executable
 - **Linux**:
--     1. pip install -r requirements.txt
--     2. python src.py 
+      pip install -r requirements.txt
+      python src.py 
 
 ## Usage
 Detailed usage instructions will be added in the future. 
