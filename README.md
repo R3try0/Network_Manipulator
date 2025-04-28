@@ -17,17 +17,37 @@
 - **Windows**: Compiled using Nuitka for optimal performance.
 - **Linux**: Can be run directly without additional compilation for now.
 
-## Installation
-- **Windows**: In **Releases** there is a standalone executable
-- **Linux**:
-      pip install -r requirements.txt
-      python src.py 
+### Windows
+1. **Download the Executable**: 
+   - Go to the **[Releases](https://github.com/R3try0/Network_Manipulator/)** section of the repository.
+   - Download the latest standalone executable for Windows.
 
-## Usage
-Detailed usage instructions will be added in the future. 
+2. **Run the Application**: 
+   - Locate the downloaded file in your Downloads folder or the specified directory.
+   - Double-click the executable to launch **Network Manipulator**. The user-friendly interface will open, allowing you to start using the tool immediately.
+
+### Linux
+1. **Install Dependencies**: 
+   - Open your terminal.
+   - Navigate to the directory where you cloned or downloaded the repository.
+   - Run the following command to install the required Python packages:
+     ```bash
+     pip install -r requirements.txt
+     ```
+
+2. **Launch the Application**: 
+   - After the dependencies are installed, execute the following command to start the application:
+     ```bash
+     python src.py
+     ```
+   - The graphical user interface will appear, ready for you to explore its features.
+
+### Additional Notes
+- Ensure you have Python and pip installed on your Linux system before proceeding with the installation.
+- For optimal performance, consider running the application with administrative privileges, especially when performing network scans or MAC address spoofing.
 
 ## Contributing
 Contributions are welcome! Please feel free to submit issues or pull requests.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. You are free to copy, modify, and distribute the code, but please provide appropriate credit to the original author. For more details, see the LICENSE file.
