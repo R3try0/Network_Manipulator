@@ -17,6 +17,8 @@
 - **Windows**: Compiled using Nuitka for optimal performance.
 - **Linux**: Can be run directly without additional compilation for now.
 
+## Usage
+
 ### Windows
 1. **Download the Executable**: 
    - Go to the **[Releases](https://github.com/R3try0/Network_Manipulator/)** section of the repository.
